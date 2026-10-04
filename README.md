@@ -6,7 +6,7 @@
 ### Tech Stack
 * **Languages & Frameworks:** JavaScript (ES6+), Vue.js, Vite
 * **Styling & Markup:** HTML5, CSS3, SASS/SCSS
-* **Tools:** Git, GitHub, Vercel, Firebase
+* **Tools:** Git, GitHub, Vercel
 
 ---
 
